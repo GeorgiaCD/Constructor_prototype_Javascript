@@ -1,0 +1,15 @@
+{
+  "name": "constructor_prototype_working",
+  "version": "1.0.0",
+  "description": "",
+  "main": "constructor_and_prototype.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
